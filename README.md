@@ -10,3 +10,6 @@ heroku config:set ACCESS_TOKEN_QIITA=ほげ
 ```
 
 herokuにデプロイしたら、はてブの設定ページでweb hookの設定を行ってください。
+
+# その他
+車輪の再発明な気がします。
