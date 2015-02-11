@@ -1,0 +1,2 @@
+# hatebu2qiitaStock
+qiita記事をはてブしたらqiitaでストックする
