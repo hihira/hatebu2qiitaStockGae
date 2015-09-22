@@ -1,7 +1,0 @@
-{
-    "name": "hatebu2qiitaStock",
-    "description": "qiita記事をはてブしたらqiitaでストックする",
-    "repository": "https://github.com/hihira/hatebu2qiitaStock",
-    "logo": "http://hatenacorp.jp/images/hatenaportal/company/resource/hatena-bookmark-logo-s.png",
-    "keywords": ["php", "hatebu", "hatena bookmark", "qiita", "はてブ", "はてなブックマーク"]
-}
